@@ -3,7 +3,7 @@ Markov Chain-based simulation of customer behaviour in supermarket
 
 In first notebook Supermarket EDA and plotting i explored our input data, created extra features, made plots and saved new dataframe in xlsx/clean_xl_final.csv
 
-In second notebook i created matrices for probabiliy vectores for prob of entering first location, prob of next move, prob of time client spent at each location.
+In second notebook i created matrices of probability vectors for prob of entering first location, prob of next move, prob of time client spent at each location.
 
 To create simulation i generated 2 classes:
 
